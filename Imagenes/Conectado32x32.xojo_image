@@ -1,0 +1,40 @@
+#tag MultiImage
+Image Conectado32x32
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAABDQzpcVXNlcnNcU29sdXRpY2FcRG9jdW1lbnRzXEdpdEh1YlxEdWNrXEltYWdlbmVzXENvbmVjdGFkbzMyeDMyLnBuZwMAAAAAAQAEAAAAAAEAAAAAAAAA
+		FullPath = C:\Users\Solutica\Documents\GitHub\Duck\Imagenes\Conectado32x32.png
+		PartialPath = ..\Duck\Imagenes\Conectado32x32.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 32.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = 32.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 32.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = 32.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 32.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = 32.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

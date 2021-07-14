@@ -1,0 +1,30 @@
+#tag FileTypeSet
+	#tag FileType
+		CodeName=Acces
+		Extension=ACCDB;MDB
+		Flags=&h0
+		MacCreator=
+		MacType=
+		Name=Access
+		UTI=
+		UTIConformsTo=
+		Description=Archivos de bases de datos MS Access
+		MimeType=application/msaccess
+		Imported=True
+	#tag EndFileType
+
+	#tag FileType
+		CodeName=SQLite
+		Extension=db;sqlite
+		Flags=&h0
+		MacCreator=
+		MacType=
+		Name=SQLite
+		UTI=
+		UTIConformsTo=
+		Description=Archivos de bases de datos SQLite
+		MimeType=application/x-sqlite3
+		Imported=False
+	#tag EndFileType
+
+#tag EndFileTypeSet

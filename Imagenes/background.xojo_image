@@ -1,0 +1,40 @@
+#tag MultiImage
+Image background
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAA8QzpcVXNlcnNcU29sdXRpY2FcRG9jdW1lbnRzXEdpdEh1YlxEdWNrXGJhY2tncm91bmRfcGhvdG8uanBnAwAAAAABAAQAAAAAAQAAAAAAAAA=
+		FullPath = C:\Users\Solutica\Documents\GitHub\Duck\background_photo.jpg
+		PartialPath = ..\Duck\background_photo.jpg
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 3588.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = 1842.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 3588.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = 1842.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 3588.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = 1842.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

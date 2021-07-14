@@ -1,0 +1,40 @@
+#tag MultiImage
+Image background
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAABAQzpcVXNlcnNcUm9tbWVsIE9saXZhXFByb3llY3Rvc1xKdWFuam9cRHVja1xiYWNrZ3JvdW5kX3Bob3RvLmpwZwMAAAAAAQAEAAAAAAEAAAAAAAAA
+		FullPath = C:\Users\Rommel Oliva\Proyectos\Juanjo\Duck\background_photo.jpg
+		PartialPath = background_photo.jpg
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 3588.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = 1842.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 3588.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = 1842.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 3588.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = 1842.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage
