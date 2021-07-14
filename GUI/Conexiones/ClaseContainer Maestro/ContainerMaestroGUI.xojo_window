@@ -130,7 +130,7 @@ End
 		    
 		    
 		    AddHandler ClaseConexionSQLGUI(ConexionGUI).Conectado, WeakAddressOf ConectadoAction
-		    AddHandler ClaseConexionSQLGUI.EventDesconectado, WeakAddressOf EventDesconectadoAction
+		    'AddHandler ClaseConexionSQLGUI.EventDesconectado, WeakAddressOf EventDesconectadoAction
 		    
 		    
 		  Case TiposConexionEnum.TipoConexionSQLite
